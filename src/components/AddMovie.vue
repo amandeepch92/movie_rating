@@ -4,12 +4,14 @@
       label="Movie Name"
       v-model="name"
       :rules="nameRules"
+      id="name"
       required
     ></v-text-field>
     <v-text-field
       name="input-7-1"
       label="Movie Description"
       v-model="description"
+      id="description"
       multi-line
     ></v-text-field>
     <v-select
@@ -18,16 +20,19 @@
       :items="years"
       required
       :rules="releaseRules"
+      id="release_year"
     ></v-select>
     <v-text-field
       label="Movie Genre"
       v-model="genre"
+      id="genre"
       required
       :rules="genreRules"
     ></v-text-field>
     <v-btn
       @click="submit"
       :disabled="!valid"
+      id="add_movie_btn"
     >
       submit
     </v-btn>
@@ -70,7 +75,7 @@ export default {
           description: this.description,
           release_year: this.release_year,
           genre: this.genre,
-        };
+        }
         this.$store.dispatch('addMovie', movie);
         this.$swal(
           'Great!',
