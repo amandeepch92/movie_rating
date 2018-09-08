@@ -1,4 +1,4 @@
-// https://eslint.org/docs/user-guide/configuring
+  // https://eslint.org/docs/user-guide/configuring
 
 module.exports = {
   root: true,
@@ -48,6 +48,8 @@ module.exports = {
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'linebreak-style': 0,
     'no-new':0,
-    'max-len':0
+    'max-len':0,
+    'no-default-export': 0,
+    "no-unused-expressions": 0
   }
 }

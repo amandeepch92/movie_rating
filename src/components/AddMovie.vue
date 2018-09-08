@@ -40,7 +40,6 @@
   </v-form>
 </template>
 <script>
-import axios from 'axios';
 
 export default {
   data: () => ({
@@ -75,7 +74,7 @@ export default {
           description: this.description,
           release_year: this.release_year,
           genre: this.genre,
-        }
+        };
         this.$store.dispatch('addMovie', movie);
         this.$swal(
           'Great!',

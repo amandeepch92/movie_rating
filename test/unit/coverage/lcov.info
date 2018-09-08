@@ -1,5 +1,5 @@
 TN:
-SF:D:\Vue-fullstack\movie_rating\src\components\AddMovie.vue
+SF:/Users/aman/Documents/vue-js-node/movie_rating/src/components/AddMovie.vue
 FN:46,(anonymous_0)
 FN:53,(anonymous_1)
 FN:56,(anonymous_2)
@@ -42,7 +42,7 @@ BRF:11
 BRH:8
 end_of_record
 TN:
-SF:D:\Vue-fullstack\movie_rating\src\App.vue
+SF:/Users/aman/Documents/vue-js-node/movie_rating/src/App.vue
 FN:64,(anonymous_0)
 FN:77,(anonymous_1)
 FN:86,(anonymous_2)
@@ -73,7 +73,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:D:\Vue-fullstack\movie_rating\src\bus.js
+SF:/Users/aman/Documents/vue-js-node/movie_rating/src/bus.js
 FNF:0
 FNH:0
 DA:3,1
@@ -83,7 +83,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:D:\Vue-fullstack\movie_rating\src\components\Home.vue
+SF:/Users/aman/Documents/vue-js-node/movie_rating/src/components/Home.vue
 FNF:0
 FNH:0
 DA:27,0
@@ -94,7 +94,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:D:\Vue-fullstack\movie_rating\src\components\Login.vue
+SF:/Users/aman/Documents/vue-js-node/movie_rating/src/components/Login.vue
 FN:39,(anonymous_0)
 FN:44,(anonymous_1)
 FN:45,(anonymous_2)
@@ -128,7 +128,7 @@ BRF:4
 BRH:0
 end_of_record
 TN:
-SF:D:\Vue-fullstack\movie_rating\src\components\Movie.vue
+SF:/Users/aman/Documents/vue-js-node/movie_rating/src/components/Movie.vue
 FN:66,(anonymous_0)
 FN:78,(anonymous_1)
 FN:81,(anonymous_2)
@@ -163,7 +163,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:D:\Vue-fullstack\movie_rating\src\components\Register.vue
+SF:/Users/aman/Documents/vue-js-node/movie_rating/src/components/Register.vue
 FN:37,(anonymous_0)
 FN:44,(anonymous_1)
 FN:45,(anonymous_2)
@@ -199,7 +199,7 @@ BRF:6
 BRH:0
 end_of_record
 TN:
-SF:D:\Vue-fullstack\movie_rating\src\router\index.js
+SF:/Users/aman/Documents/vue-js-node/movie_rating/src/router/index.js
 FNF:0
 FNH:0
 DA:10,1
@@ -209,7 +209,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:D:\Vue-fullstack\movie_rating\src\store\store.js
+SF:/Users/aman/Documents/vue-js-node/movie_rating/src/store/store.js
 FN:12,(anonymous_0)
 FN:15,(anonymous_1)
 FN:18,(anonymous_2)
