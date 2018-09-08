@@ -70,7 +70,7 @@ export default {
           data: {
             rate: state.note,
           },
-          url: `http://localhost:8081/movies/rate/${movieId}`,
+          url: `/movies/rate/${movieId}`,
           headers: {
             'Content-Type': 'application/json',
           },
